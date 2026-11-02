@@ -1,0 +1,5 @@
+# Environment variables – never commit secrets or local config
+.env
+*.env
+.env.local
+.env.*.local
